@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Light Theme
 ![github-contribution-grid-snake](https://github.com/DjonniStorm/DjonniStorm/assets/48327702/6649c691-add0-4f1a-914b-06b380a78f3d)
+## Dark Theme
+![github-contribution-grid-snake-dark](https://github.com/DjonniStorm/DjonniStorm/assets/48327702/995b10ac-3bca-4285-83ab-54dc87a96e4b)

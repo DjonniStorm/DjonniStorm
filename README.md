@@ -20,3 +20,8 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="svgs/github-snake.svg" />
   <img alt="github-snake" src="svgs/github-snake.svg" />
 </picture>
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DjonniStorm&theme=tokyonight&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjonniStorm&size_weight=0.5&count_weight=0.5&langs_count=7&layout=donut&theme=tokyonight)
